@@ -1,7 +1,7 @@
-&lt;!-- 保存为 README.md --&gt;
+&lt;!--
 Stable Diffusion WebUI 中文安装指南
 
-&gt; 基于 AUTOMATIC1111/stable-diffusion-webui 官方文档的社区中文翻译，持续同步更新。  
+&gt; 基于 AUTOMATIC1111/stable-diffusion-webui 官方文档的社区中文翻译。  
 &gt; 若需英文原版请移步 [官方 Wiki](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki)。
 
 ---
